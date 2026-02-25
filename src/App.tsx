@@ -24,7 +24,7 @@ function App() {
       <footer className="footer">
         <div className="container">
           <p className="footer__text">
-            © 2026 <span>Gilles DESBONNETS</span> – Développeur Junior
+            © 2026 <span>Gilles DESBONNETS</span> – Développeur Web
           </p>
         </div>
       </footer>
