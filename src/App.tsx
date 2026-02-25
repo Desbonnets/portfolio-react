@@ -1,6 +1,7 @@
 import './App.css'
 import Navbar from './components/navbar/Navbar'
 import Profile from './components/profile/Profile'
+import About from './components/about/About'
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <Navbar />
       <main>
         <Profile />
+        <About />
       </main>
       <footer className="footer">
         <div className="container">
