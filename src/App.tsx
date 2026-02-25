@@ -6,6 +6,7 @@ import Skills from './components/skills/Skills'
 import Projects from './components/project/Projects'
 import Experience from './components/Experience'
 import Education from './components/Education'
+import Contact from './components/contact/Contact'
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
         <Projects />
         <Experience />
         <Education />
+        <Contact />
       </main>
       <footer className="footer">
         <div className="container">
