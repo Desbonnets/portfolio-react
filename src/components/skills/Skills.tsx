@@ -18,7 +18,7 @@ const categories: SkillCategory[] = [
     title: 'Frontend',
     icon: '🖥️',
     colorClass: 'icon-green',
-    skills: ['Angular', 'JavaScript', 'TypeScript', 'HTML / CSS', 'Twig'],
+    skills: ['React', 'Angular', 'JavaScript', 'TypeScript', 'HTML / CSS', 'Twig'],
   },
   {
     title: 'DevOps & Outils',

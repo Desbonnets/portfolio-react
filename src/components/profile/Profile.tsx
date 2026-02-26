@@ -34,11 +34,11 @@ export default function Profile() {
               Gilles <span>DESBONNETS</span>
             </h1>
             <p className="profile__subtitle">
-              Développeur Web &nbsp;·&nbsp; PHP/Symfony &nbsp;·&nbsp; Angular &nbsp;·&nbsp; Kubernetes
+              Développeur Web &nbsp;·&nbsp; PHP/Symfony &nbsp;·&nbsp; React &nbsp;·&nbsp; Kubernetes
             </p>
             <p className="profile__desc">
               Développeur web avec 4 ans d'expérience en alternance au Ministère des armées.
-              Spécialisé en backend PHP/Symfony, compétences en frontend Angular et déploiement
+              Spécialisé en backend PHP/Symfony, compétences en frontend React et déploiement
               sur des environnements conteneurisés Docker &amp; Kubernetes.
             </p>
             <div className="profile__buttons">
