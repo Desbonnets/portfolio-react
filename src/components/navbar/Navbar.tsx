@@ -17,7 +17,7 @@ export default function Navbar() {
     <nav className="navbar">
       <div className="navbar__inner">
         <a href="#home" className="navbar__logo">
-          Gilles<span>.</span>fr
+          gilles-desbonnets<span>.</span>fr
         </a>
         <ul className="navbar__links">
           {navLinks.map(link => (
