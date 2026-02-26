@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://portfolio.gilles-desbonnets.fr/sitemap.xml
