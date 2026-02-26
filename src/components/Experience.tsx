@@ -18,7 +18,7 @@ const experiences: ExperienceItem[] = [
   {
     title: 'Développeur Web – Alternance',
     company: 'Ministère des armées',
-    location: 'Bretagne',
+    location: 'Saint-Jacques-de-la-Lande',
     date: '09/2022 → 09/2026 · 4 ans',
     tasks: [
       "Développement et maintenance d'applications web backend avec Symfony",
