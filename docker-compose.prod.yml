@@ -1,0 +1,19 @@
+services:
+  portfolio:
+    build:
+      context: .
+      dockerfile: Dockerfile.prod
+    ports:
+      - "80:80"
+      - "443:443"
+      - "443:443/udp"
+    volumes:
+      - caddy_data:/data
+      - caddy_config:/config
+    environment:
+      - NODE_ENV=production
+    restart: unless-stopped
+
+volumes:
+  caddy_data:
+  caddy_config:
