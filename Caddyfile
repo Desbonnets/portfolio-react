@@ -1,4 +1,4 @@
-gilles-desbonnets.fr {
+portfolio.gilles-desbonnets.fr {
     root * /srv
     file_server
     try_files {path} /index.html
