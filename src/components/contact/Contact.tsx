@@ -1,3 +1,4 @@
+import type { ReactElement } from 'react'
 import './Contact.css'
 
 const EmailIcon = () => (
@@ -34,7 +35,7 @@ const DownloadIcon = () => (
 )
 
 interface ContactItem {
-  icon: JSX.Element
+  icon: ReactElement
   colorClass: string
   label: string
   value: string
